@@ -1,3 +1,6 @@
 ### Hi there dear fellow scholars👋
 
-I am Viktor Studenyak, currently doing my master thesis 🔭 at the Technical Univerity of Munich in the area of Deep Learning. 
+B.Sc. Applied computer science from Ruhr-University of Bochum.
+M.Sc. Informatics from Technical University of Munich.
+
+Ccurrently doing my master thesis 🔭 at the Technical Univerity of Munich in the area of Deep Learning. 
