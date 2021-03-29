@@ -6,4 +6,6 @@ B.Sc. Applied computer science from Ruhr-University of Bochum.
 
 M.Sc. Informatics from Technical University of Munich.
 
-Currently doing my master thesis 🔭 in the are of Deep Learning for Medical Imaging. 
+Did guided research project in Spiking Transformer Networks.
+Did practical course in Multi-channel MRI reconstruction.
+Currently doing my master thesis 🔭 in the area of Deep Learning for Medical Imaging. 
