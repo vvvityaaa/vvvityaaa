@@ -6,7 +6,7 @@
 
 :pencil: M.Sc. Informatics from Technical University of Munich.
 
-Did guided research project in Spiking Transformer Networks.
-Did practical course in Multi-channel MRI reconstruction.
+Did a guided research project in Spiking Transformer Networks.
+Did practical course in Multi-channel MRI reconstruction, participating in MR-Rec challenge and publishing subsequent paper on the results of the challenge https://arxiv.org/pdf/2011.07952.pdf.
 
 Currently doing my master thesis 🔭 in the area of Deep Learning for Medical Imaging. 
