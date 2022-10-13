@@ -1,12 +1,11 @@
 ### Hi there fellow scholars/programmers 👋
 
-:mortar_board: Student at Technical University of Munich.
+:mortar_board: PhD Candidate at the Technical University of Berlin.
 
-:pencil: B.Sc. Applied computer science from Ruhr-University of Bochum. 
+:pencil: B.Sc. Applied computer science degree from the Ruhr-University of Bochum. 
 
-:pencil: M.Sc. Informatics from Technical University of Munich.
+:pencil: M.Sc. Informatics degree from the Technical University of Munich.
 
-Finished a guided research project in Spiking Transformer Networks.
-Finished a practical course in Multi-channel MRI reconstruction, participating in MR-Rec challenge and publishing subsequent [paper](https://arxiv.org/pdf/2011.07952.pdf) on the results of the challenge.
-
-Currently doing my master thesis in the area of Deep Learning for Medical Imaging. 
+Papers:
+- Spiking Transformer Networks [paper](https://mediatum.ub.tum.de/doc/1633751/6hk426j0vdx1ge80py4h15hkc.Spiking_Transformer_Networks_A_Rate_Coded_Approach_for_Processing_Sequential_Data.pdf)
+- MRI reconstruction [paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.919186/full)
