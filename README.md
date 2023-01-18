@@ -6,7 +6,7 @@
 
 :pencil: M.Sc. Informatics degree from the Technical University of Munich.
 
-Lab rotations: TU Berlin (ML Group)
+Lab rotations: TU Berlin (ML Group), MPI for Human Cognitive and Brain Sciences (Department of Psychology, Neural geometry)
 
 Papers:
 - Spiking Transformer Networks [paper](https://mediatum.ub.tum.de/doc/1633751/6hk426j0vdx1ge80py4h15hkc.Spiking_Transformer_Networks_A_Rate_Coded_Approach_for_Processing_Sequential_Data.pdf)
