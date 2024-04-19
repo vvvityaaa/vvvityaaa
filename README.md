@@ -1,12 +1,8 @@
-### Hi there fellow scholars/programmers 👋
-
-:mortar_board: PhD Candidate at the Max Planck School of Cognition.
-
-:pencil: B.Sc. Applied computer science degree from the Ruhr-University of Bochum. 
+:mortar_board: PhD Candidate at the Max Planck Institute for Human Brain and Cognitive Sciences, Max Planck School of Cognition.
 
 :pencil: M.Sc. Informatics degree from the Technical University of Munich.
 
-Lab rotations: TU Berlin (ML Group), MPI for Human Cognitive and Brain Sciences (Department of Psychology, Neural geometry)
+:pencil: B.Sc. Applied computer science degree from the Ruhr-University of Bochum. 
 
 Papers:
 - Spiking Transformer Networks [paper](https://mediatum.ub.tum.de/doc/1633751/6hk426j0vdx1ge80py4h15hkc.Spiking_Transformer_Networks_A_Rate_Coded_Approach_for_Processing_Sequential_Data.pdf)
